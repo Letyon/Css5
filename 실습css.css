@@ -1,0 +1,28 @@
+   .container{
+                width: 70%;
+            }
+            header{
+                background: orange;
+                color: white;
+            }
+            header>h1{
+                font-size: 30px;
+            }
+            header>p{
+                font-size: 10px;
+            }
+            div>p{
+                background: red;
+                color: white;
+            }
+            div>h4{
+                background: blue;
+                color: white;
+            }
+            div>h3{
+                font-size: 20px;
+            }
+            footer{
+                background: blue;
+                color: white;
+            }
